@@ -1,0 +1,31 @@
+
+body 
+{
+    font-family: 'Inconsolata', monospace;
+}
+
+h1 
+{
+    text-align: center;
+    position: relative;
+    font-family: 'Inconsolata', monospace;
+}
+
+h2 
+{
+    text-align: center;
+    position: relative;
+}
+
+p.links
+{
+    text-align: center;
+    position: relative;
+    
+}
+
+p.contacts 
+{
+    text-align: center;
+    position: relative;
+}
