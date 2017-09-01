@@ -4,7 +4,14 @@ body
     font-family: 'Inconsolata', monospace;
 }
 
-h1 
+h1
+{
+    text-align: center;
+    position: relative;
+    font-family: 'Inconsolata', monospace;
+}
+
+h1.homeTitle
 {
     text-align: center;
     position: relative;
@@ -17,6 +24,26 @@ h2
     text-align: center;
     position: relative;
 }
+
+/* Instructions */
+.instruction 
+{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+h3.instruction 
+{
+    text-align: center;
+    position: relative;
+}
+
+p.instruction
+{
+    text-align: center;
+    
+}
+
+
 
 p.links
 {
