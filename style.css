@@ -40,7 +40,6 @@ h3.instruction
 p.instruction
 {
     text-align: center;
-    
 }
 
 
@@ -50,6 +49,11 @@ p.links
     text-align: center;
     position: relative;
     
+}
+
+a.links:link
+{
+    color: #19334d;
 }
 
 p.contacts 
