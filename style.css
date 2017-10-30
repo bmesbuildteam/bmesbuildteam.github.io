@@ -16,6 +16,12 @@ body
     padding-bottom: 3em;
 }
 
+.header
+{
+    text-align: center;
+    position: relative;
+}
+
 h1
 {
     text-align: center;
