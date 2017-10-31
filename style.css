@@ -61,6 +61,11 @@ p.text
     text-align: center;
 }
 
+p.justifyText
+{
+    text-align: justify;
+}
+
 p.links
 {
     text-align: center;
